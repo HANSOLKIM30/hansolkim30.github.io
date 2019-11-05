@@ -1,0 +1,28 @@
+# main links
+main:
+
+  - title: "About"
+    url: /about/
+  - title: "Archive"
+    url: /index/
+  - title: "Portfolio"
+    url: /portfolio/
+
+side:
+  - title: "Spring"
+    url: /categories/#spring
+  - title: "Spring-Boot"
+    url: /categories/#spring-boot
+  - title: "Node.js"
+    url: /categories/#node.js
+  - title: "Algorithm"
+    url: /categories/#algorithm
+
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
