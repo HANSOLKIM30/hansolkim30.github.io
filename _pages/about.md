@@ -1,5 +1,5 @@
 ---
-title: "About HansolKim"
+title: "About"
 layout: single
 permalink: /about/
 sidebar : 
