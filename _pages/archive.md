@@ -1,7 +1,7 @@
 ---
 title: "Archive"
 layout: categories
-permalink: /posts/
+permalink: /index/
 sidebar : 
     nav : "side"
 ---
