@@ -1,8 +1,6 @@
 # main links
 main:
 
-  - title: "About"
-    url: /about/
   - title: "Archive"
     url: /index/
   - title: "Portfolio"
