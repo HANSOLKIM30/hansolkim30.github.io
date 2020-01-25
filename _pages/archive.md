@@ -1,7 +1,8 @@
 ---
 title: "Archive"
 layout: categories
-permalink: /index/
+permalink: /categories/
+author_profile: false
 sidebar : 
     nav : "side"
 ---
