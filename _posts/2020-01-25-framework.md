@@ -4,8 +4,11 @@ categories: SPRING
 date: 2020-01-25
 ---
 
-# [Framework와 Spring]
-Library, API, Framework의 차이를 통해 Spring Framework에 대해 알아본다. 
+# [Spring Framework]
+Spring은 Framework이다. Framework란 무엇일까?
+
+## Library, API, Framework
+Library, API, Framework의 차이를 통해 Spring Framework에 대해 알아보자.
 
 ### Library
 프로그래밍을 좀 더 쉽게 하기 위한, 재사용이 가능한 코드의 집합.
