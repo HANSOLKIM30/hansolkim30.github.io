@@ -1,5 +1,5 @@
 ---
-title: "[SPRING] Framework 기본지식"
+title: "[SPRING] Framework"
 categories: SPRING
 date: 2020-01-25
 ---
