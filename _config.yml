@@ -285,6 +285,8 @@ defaults:
       path: ""
       type: posts
     values:
+      sidebar : 
+        nav : "side"
       layout: single
       author_profile: true
       read_time: true
