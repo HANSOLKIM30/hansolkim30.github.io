@@ -5,10 +5,7 @@ date: 2020-01-25
 ---
 
 # [Framework와 Spring]
-Library, API, Framework, Spring
-
-## Spring
-spring? 스프링, 자바 기반의 프레임워크의 일종이다. 그렇다면 프레임워크는 무엇일까? 여기에서는 프레임워크, 라이브러리, api의 차이를 통해 스프링이 무엇인지 정리해 보고자 한다.
+Library, API, Framework의 차이를 통해 Spring Framework에 대해 알아본다. 
 
 ### Library
 프로그래밍을 좀 더 쉽게 하기 위한, 재사용이 가능한 코드의 집합.
