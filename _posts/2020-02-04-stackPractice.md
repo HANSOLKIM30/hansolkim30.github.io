@@ -13,7 +13,7 @@ date: 2020-02-04
 4. 오등큰수
 
 ## 단어뒤집기 2
-- [단어뒤집기 2](https://www.acmicpc.net/problem/17413)
+- [단어뒤집기 2](https://www.acmicpc.net/problem/17413)<br>
 ```java
 import java.util.*;
 import java.io.*;
@@ -59,9 +59,9 @@ public class Main{
     }
 }
 ```
-
+<br>
 ##  쇠막대기
-- [쇠막대기](https://www.acmicpc.net/problem/10799)
+- [쇠막대기](https://www.acmicpc.net/problem/10799)<br>
 ```java
 import java.io.*;
 import java.util.*;
@@ -93,10 +93,10 @@ public class Main{
         System.out.println(num);
     }
 }
-```
- 
+``` 
+<br>
 ##  오큰수
-- [오큰수](https://www.acmicpc.net/problem/17298)
+- [오큰수](https://www.acmicpc.net/problem/17298)<br>
 ```java
 import java.util.*;
 import java.io.*;
@@ -140,8 +140,9 @@ public class Main{
     }
 }
 ```
+<br>
 ##  오등큰수
-- [오등큰수](https://www.acmicpc.net/problem/17299)
+- [오등큰수](https://www.acmicpc.net/problem/17299)<br>
 ```java
 import java.io.*;
 import java.util.*;
