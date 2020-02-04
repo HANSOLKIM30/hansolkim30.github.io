@@ -14,12 +14,7 @@ date: 2020-02-04
 
 ## 단어뒤집기 2
 - [단어뒤집기 2](https://www.acmicpc.net/problem/17413)<br>
-```java
-import java.util.*;
-import java.io.*;
-
-public class Main{
-    
+```java    
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -57,16 +52,11 @@ public class Main{
         bw.flush();
         bw.close();
     }
-}
 ```
-<br>
+
 ##  쇠막대기
 - [쇠막대기](https://www.acmicpc.net/problem/10799)<br>
 ```java
-import java.io.*;
-import java.util.*;
-
-public class Main{
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String str = br.readLine();
@@ -92,9 +82,7 @@ public class Main{
         
         System.out.println(num);
     }
-}
 ``` 
-<br>
 ##  오큰수
 - [오큰수](https://www.acmicpc.net/problem/17298)<br>
 ```java
@@ -143,7 +131,7 @@ public class Main{
 <br>
 ##  오등큰수
 - [오등큰수](https://www.acmicpc.net/problem/17299)<br>
-```java
+```java <br>
 import java.io.*;
 import java.util.*;
 
