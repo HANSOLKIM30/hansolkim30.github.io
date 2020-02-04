@@ -82,14 +82,11 @@ date: 2020-02-04
         
         System.out.println(num);
     }
-``` 
-##  오큰수
+```
+
+## 오큰수
 - [오큰수](https://www.acmicpc.net/problem/17298)<br>
 ```java
-import java.util.*;
-import java.io.*;
-
-public class Main{
     public static void main(String[] args) throws IOException{
         Stack<Integer> stack = new Stack<Integer>();
         
@@ -126,16 +123,11 @@ public class Main{
         bw.flush();
         bw.close();
     }
-}
 ```
-<br>
-##  오등큰수
+
+## 오등큰수
 - [오등큰수](https://www.acmicpc.net/problem/17299)<br>
 ```java <br>
-import java.io.*;
-import java.util.*;
-
-public class Main{
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -176,5 +168,4 @@ public class Main{
         bw.flush();
         bw.close();
     }
-}
 ```
