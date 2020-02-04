@@ -127,7 +127,7 @@ date: 2020-02-04
 
 ## 오등큰수
 - [오등큰수](https://www.acmicpc.net/problem/17299)<br>
-```java <br>
+```java
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
