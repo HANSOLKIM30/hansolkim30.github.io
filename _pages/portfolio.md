@@ -5,45 +5,43 @@ permalink: /portfolio/
 sidebar : 
     nav : "side"
 ---
-<br><br>
-이미지에 게시된 링크는 페이지 하단에도 있습니다.<br>
-참고 부탁 드립니다.
+<br>
+**이미지에 게시된 링크는 페이지 하단에도 있습니다. 참고 부탁 드립니다.**
 <br><br>
 ![1](https://hansolkim30.github.io/assets/images/portfolio/1.JPG)<br><br><br>
 ![2](https://hansolkim30.github.io/assets/images/portfolio/2.JPG)<br><br><br>
 ![3](https://hansolkim30.github.io/assets/images/portfolio/3.JPG)<br><br><br>
-![4](https://hansolkim30.github.io/assets/images/portfolio/4.JPG)<br>
+![4](https://hansolkim30.github.io/assets/images/portfolio/4.JPG)<br><br>
 [프로젝트 링크](https://github.com/HANSOLKIM30/run-bike-project) / [실행파일 링크](https://runbike.cf/runbike/) / [시연영상 링크](https://www.youtube.com/watch?v=l89zUgKG4cw&feature=youtu.be)
 <br><br>
 ![5](https://hansolkim30.github.io/assets/images/portfolio/5.JPG)<br><br><br>
 ![6](https://hansolkim30.github.io/assets/images/portfolio/6.JPG)<br><br><br>
-![7](https://hansolkim30.github.io/assets/images/portfolio/7.JPG)<br>
+![7](https://hansolkim30.github.io/assets/images/portfolio/7.JPG)<br><br>
 깃허브: [나의 위치찾기](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/webapp/WEB-INF/views/record/startRide.jsp)
 <br><br>
-![8](https://hansolkim30.github.io/assets/images/portfolio/8.JPG)<br>
+![8](https://hansolkim30.github.io/assets/images/portfolio/8.JPG)<br><br>
 깃허브: [목적지 입력 후 경로찾기-findRoad 메서드 참고](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/webapp/WEB-INF/views/record/startRide.jsp)
 <br><br>
-![9](https://hansolkim30.github.io/assets/images/portfolio/9.JPG)<br>
+![9](https://hansolkim30.github.io/assets/images/portfolio/9.JPG)<br><br>
 깃허브: [내 주변 따릉이 안내-chkSeoulBike, seoulBikeAroundMe 메서드 참고](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/webapp/WEB-INF/views/record/startRide.jsp)
 <br><br>
-![10](https://hansolkim30.github.io/assets/images/portfolio/10.JPG)<br>
+![10](https://hansolkim30.github.io/assets/images/portfolio/10.JPG)<br><br>
 깃허브: [실제 이동경로 표시-myLocation 메서드 참고](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/webapp/WEB-INF/views/record/startRide.jsp)
 <br><br>
 ![11](https://hansolkim30.github.io/assets/images/portfolio/11.JPG)<br><br><br>
-![12](https://hansolkim30.github.io/assets/images/portfolio/12.JPG)<br>
-깃허브:
-<뱃지>    
-[view](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/webapp/WEB-INF/views/rewards/myBadge.jsp) / [mapper](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownbadge/mapper/ownBadge.xml) / [dao](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownbadge/dao/OwnBadgeDao.java) / [service](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownbadge/service/GetOwnBadgeService.java) / [controller](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownbadge/controller/OwnBadgeController.java)
-<스탬프>  
-[view](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/webapp/WEB-INF/views/rewards/myBadge.jsp) / [mapper](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownstamp/mapper/ownStamp.xml) / [dao](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownstamp/dao/OwnStampDao.java) / [service](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownstamp/service/GetOwnStampService.java) / [controller](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownstamp/controller/OwnStampController.java)
+![12](https://hansolkim30.github.io/assets/images/portfolio/12.JPG)<br><br>
+깃허브:<br>
+뱃지 / [view](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/webapp/WEB-INF/views/rewards/myBadge.jsp) / [mapper](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownbadge/mapper/ownBadge.xml) / [dao](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownbadge/dao/OwnBadgeDao.java) / [service](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownbadge/service/GetOwnBadgeService.java) / [controller](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownbadge/controller/OwnBadgeController.java)
+<br>
+스탬프 / [view](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/webapp/WEB-INF/views/rewards/myBadge.jsp) / [mapper](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownstamp/mapper/ownStamp.xml) / [dao](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownstamp/dao/OwnStampDao.java) / [service](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownstamp/service/GetOwnStampService.java) / [controller](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownstamp/controller/OwnStampController.java)
 <br><br><br>
 ![13](https://hansolkim30.github.io/assets/images/portfolio/13.JPG)<br><br><br>
-![14](https://hansolkim30.github.io/assets/images/portfolio/14.JPG)<br>
+![14](https://hansolkim30.github.io/assets/images/portfolio/14.JPG)<br><br>
 [프로젝트 링크](https://github.com/HANSOLKIM30/Project_Udo_v2) / [실행파일 링크](http://13.124.242.158/udo)
 <br><br>
 ![15](https://hansolkim30.github.io/assets/images/portfolio/15.JPG)<br><br><br>
 ![16](https://hansolkim30.github.io/assets/images/portfolio/16.JPG)<br><br><br>
-![17](https://hansolkim30.github.io/assets/images/portfolio/17.JPG)<br>
+![17](https://hansolkim30.github.io/assets/images/portfolio/17.JPG)<br><br>
 ① RegExp를 이용한 유효성 검사 처리<br>
 깃허브: [Register Service](https://github.com/HANSOLKIM30/Project_Udo_v2/blob/master/Project_Udo_v2/src/main/java/com/wad/udo/member/service/MemberRegisterService.java)
 
@@ -58,7 +56,7 @@ sidebar :
 
 <br><br>
 ![18](https://hansolkim30.github.io/assets/images/portfolio/18.JPG)<br><br><br>
-![19](https://hansolkim30.github.io/assets/images/portfolio/19.JPG)<br>
+![19](https://hansolkim30.github.io/assets/images/portfolio/19.JPG)<br><br>
 ① 금일 이전 예약은 취소버튼 비활성화<br>
 깃허브: [view](https://github.com/HANSOLKIM30/Project_Udo_v2/blob/master/Project_Udo_v2/src/main/webapp/WEB-INF/views/reservation/myReservation.jsp)
 
