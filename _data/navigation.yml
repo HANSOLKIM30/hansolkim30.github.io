@@ -2,7 +2,7 @@
 main:
 
   - title: "Archive"
-    url: /index/
+    url: /categories/
   - title: "Portfolio"
     url: /portfolio/
 
