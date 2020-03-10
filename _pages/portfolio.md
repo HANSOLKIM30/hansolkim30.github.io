@@ -34,7 +34,7 @@ sidebar :
 뱃지 / [view](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/webapp/WEB-INF/views/rewards/myBadge.jsp) / [mapper](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownbadge/mapper/ownBadge.xml) / [dao](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownbadge/dao/OwnBadgeDao.java) / [service](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownbadge/service/GetOwnBadgeService.java) / [controller](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownbadge/controller/OwnBadgeController.java)
 <br>
 스탬프 / [view](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/webapp/WEB-INF/views/rewards/myBadge.jsp) / [mapper](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownstamp/mapper/ownStamp.xml) / [dao](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownstamp/dao/OwnStampDao.java) / [service](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownstamp/service/GetOwnStampService.java) / [controller](https://github.com/HANSOLKIM30/run-bike-project/blob/master/Run-bike/src/main/java/com/teamrun/runbike/ownstamp/controller/OwnStampController.java)
-<br><br><br>
+<br><br>
 ![13](https://hansolkim30.github.io/assets/images/portfolio/13.JPG)<br><br><br>
 ![14](https://hansolkim30.github.io/assets/images/portfolio/14.JPG)<br><br>
 [프로젝트 링크](https://github.com/HANSOLKIM30/Project_Udo_v2) / [실행파일 링크](http://13.124.242.158/udo)
@@ -53,7 +53,6 @@ sidebar :
 
 ④ 인터셉터를 활용한 로그인 처리<br>
 깃허브: [Interceptor](https://github.com/HANSOLKIM30/Project_Udo_v2/blob/master/Project_Udo_v2/src/main/java/com/wad/udo/interceptor/AuthCheckInterceptor.java) / [Interceptor 등록](https://github.com/HANSOLKIM30/Project_Udo_v2/blob/master/Project_Udo_v2/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml)
-
 <br><br>
 ![18](https://hansolkim30.github.io/assets/images/portfolio/18.JPG)<br><br><br>
 ![19](https://hansolkim30.github.io/assets/images/portfolio/19.JPG)<br><br>
