@@ -6,7 +6,7 @@ sidebar :
     nav : "side"
 ---
 <br><br>
-페이지 별로 소개된 링크는 페이지 하단에도 있습니다.<br>
+이미지에 게시된 링크는 페이지 하단에도 있습니다.<br>
 참고 부탁 드립니다.
 <br><br>
 ![1](https://hansolkim30.github.io/assets/images/portfolio/1.JPG)<br><br><br>
