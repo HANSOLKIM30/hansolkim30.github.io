@@ -15,6 +15,8 @@ side:
     url: /categories/#node.js
   - title: "Algorithm"
     url: /categories/#algorithm
+  - title: "Etc"
+    url: /categories/#etc
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
